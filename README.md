@@ -39,47 +39,47 @@ DISCORD_TOKEN=SEU_TOKEN_AQUI
 
 # Estrutura do projeto
 
-## Bash
+### Bash
 
-## task-bot
+### task-bot
 
-## bot.py
+### bot.py
 
-## dados_estudos.json
+### dados_estudos.json
 
-## requirements.txt
+### requirements.txt
 
-## .env
+### .env
 
-## .gitgnore
+### .gitgnore
 
 # Instalação
 
-## Clone o projeto:
+### Clone o projeto:
 
-## Bash
+### Bash
 
-## git clone URL_DO_REPOSITORIO
+### git clone URL_DO_REPOSITORIO
 
-## Instale dependências:
+### Instale dependências:
 
-## Bash
+### Bash
 
-## pip install -r requirements.txt
+### pip install -r requirements.txt
 
-## Execute:
+### Execute:
 
-## Bash 
+### Bash 
 
-## python bot.py
+### python bot.py
 
 # Tecnologias utilizadas
 
-## Python
+### Python
 
-## Discord.py
+### Discord.py
 
-## JSON
+### JSON
 
 # Integrantes do nosso grupo
 Leonardo Hiroshi Dondo de Freitas https://github.com/leodondo
