@@ -1,9 +1,9 @@
-# Task Bot
+# 🤖Task Bot
 Bot de organização de estudos para Discord desenvolvido em Pyhton.
 
-# Funcionalidades
+# 📚Funcionalidades
 
-## Tarefas
+## 📌Tarefas
 
 Adicionar tarefas.
 
@@ -11,7 +11,7 @@ Listar tarefas.
 
 Remover tarefas.
 
-## Matérias
+## 📖Matérias
 
 Adicionar matérias.
 
@@ -19,7 +19,7 @@ Listar matérias.
 
 Remover matérias.
 
-## Provas
+## 🗓️Provas
 
 Agendar provas.
 
@@ -27,7 +27,7 @@ Listar provas.
 
 Remover provas.
 
-# Segurança
+# 🔒Segurança
 
 O token do bot é armazenado em arquivo .env para maior segurança.
 
@@ -37,7 +37,7 @@ Environment
 
 DISCORD_TOKEN=SEU_TOKEN_AQUI
 
-# Estrutura do projeto
+# 📂Estrutura do projeto
 
 ### Bash
 
@@ -53,7 +53,7 @@ DISCORD_TOKEN=SEU_TOKEN_AQUI
 
 ### .gitgnore
 
-# Instalação
+# 📦Instalação
 
 ### Clone o projeto:
 
@@ -73,7 +73,7 @@ DISCORD_TOKEN=SEU_TOKEN_AQUI
 
 ### python bot.py
 
-# Tecnologias utilizadas
+# 💻Tecnologias utilizadas
 
 ### Python
 
@@ -81,7 +81,7 @@ DISCORD_TOKEN=SEU_TOKEN_AQUI
 
 ### JSON
 
-# Integrantes do nosso grupo
+# 👥Integrantes do nosso grupo
 Leonardo Hiroshi Dondo de Freitas https://github.com/leodondo
 
 Gabriel Marinho Sarrão https://github.com/gabrielmarinhosrr-art
