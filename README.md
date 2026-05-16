@@ -35,13 +35,13 @@ Environment
 DISCORD_TOKEN=SEU_TOKEN_AQUI
 
 #Estrutura do projeto
-##Bash
-##task-bot
-##bot.py
-##dados_estudos.json
-##requirements.txt
-##.env
-##.gitgnore
+Bash
+task-bot
+bot.py
+dados_estudos.json
+requirements.txt
+.env
+.gitgnore
 
 #Instalação
 Clone o projeto:
