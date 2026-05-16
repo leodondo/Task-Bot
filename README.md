@@ -1,16 +1,3 @@
-# Integrantes do nosso grupo
-Leonardo Hiroshi Dondo de Freitas https://github.com/leodondo
-
-Gabriel Marinho Sarrão https://github.com/gabrielmarinhosrr-art
-
-Caio Alexandre da Silva Tavares https://github.com/ctavaresdev
-
-Muryllo Henrick Rosario Loiola Nascimento https://github.com/pecinhadomal123
-
-Ricardo Polachini Mayer Gomes Marques https://github.com/ricardopolachini
-
-Victor Emanuel da Cruz Nardo https://github.com/vnardo
-
 #Task Bot
 Bot de organização de estudos para Discord desenvolvido em Pyhton.
 
@@ -93,3 +80,16 @@ DISCORD_TOKEN=SEU_TOKEN_AQUI
 ##Discord.py
 
 ##JSON
+
+# Integrantes do nosso grupo
+Leonardo Hiroshi Dondo de Freitas https://github.com/leodondo
+
+Gabriel Marinho Sarrão https://github.com/gabrielmarinhosrr-art
+
+Caio Alexandre da Silva Tavares https://github.com/ctavaresdev
+
+Muryllo Henrick Rosario Loiola Nascimento https://github.com/pecinhadomal123
+
+Ricardo Polachini Mayer Gomes Marques https://github.com/ricardopolachini
+
+Victor Emanuel da Cruz Nardo https://github.com/vnardo
