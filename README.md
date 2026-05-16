@@ -35,24 +35,24 @@ Environment
 DISCORD_TOKEN=SEU_TOKEN_AQUI
 
 #Estrutura do projeto
-Bash
-task-bot
-bot.py
-dados_estudos.json
-requirements.txt
-.env
-.gitgnore
+##Bash
+##task-bot
+##bot.py
+##dados_estudos.json
+##requirements.txt
+##.env
+##.gitgnore
 
 #Instalação
-Clone o projeto:
-Bash
-git clone URL_DO_REPOSITORIO
-Instale dependências:
-Bash
-pip install -r requirements.txt
-Execute:
-Bash 
-python bot.py
+##Clone o projeto:
+##Bash
+##git clone URL_DO_REPOSITORIO
+##Instale dependências:
+##Bash
+##pip install -r requirements.txt
+##Execute:
+##Bash 
+##python bot.py
 
 #Tecnologias utilizadas
 ##Python
